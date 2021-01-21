@@ -1,0 +1,7 @@
+<odoo>
+    <data>
+        <menuitem id="main_odoo_informacion_b" name="Menú Nivel 0. Odoo Básico Grupo B"/>
+        <menuitem id="menu_informacion_b" name="Menú Nivel 1. Odoo Básico Información Grupo B" parent="main_odoo_informacion_b" action="informacion_b_list_action"/>
+        <menuitem id="menu_suceso_b" name="Menú Nivel 1. Odoo Básico Suceso Grupo B" parent="main_odoo_informacion_b" action="suceso_b_list_action"/>
+    </data>
+</odoo>
